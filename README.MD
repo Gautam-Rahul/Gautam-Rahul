@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **rahul.gtm114@gmail.com**
 - 🌱 I’m currently studying.
+- ✈️ Aviation enthusiast.
+- Loves to talk about space, science and technology
 - ⚡ Fun fact **I love cracking jokes 🤪**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gautam-rahul&label=Profile%20views&color=0e75b6&style=flat" alt="gautam-rahul" /> </p>
@@ -71,6 +73,7 @@
 <h3 align="left">Hobbies:</h3>
 <p align="left">
   ✈️ Traveling <br>
+✈️ Aviation enthusiast<br>
   😂 Comedy Lover <br>
   🚴 Riding Bikes
 </p>
